@@ -74,9 +74,9 @@ var Main = React.createClass({
        <div>
         <div className="row">
           <div className="jumbotron">
-            <h2 className="text-center">New York Times article finder</h2>
+            <h2 className="text-center">New York Times Article Finder</h2>
             <p className="text-center">
-              <em>Enter a topic to search</em>
+              <em>Enter a search topic</em>
             </p>
           </div>
 

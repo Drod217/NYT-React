@@ -26,5 +26,7 @@
 }
 
 #app {
-	background-image: "../newspaperbackground.jpg" !important;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMN0pAZXPwxhHgcp7kL2gy_8aqSKS4BZFCyuY1WZZ_ajvP9xb-Yw") !important;
+	background-size: 100%;
 }
+
